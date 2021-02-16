@@ -10,6 +10,7 @@ https://codesandbox.io/ -An online sandbox environment for React/Angular/Vue
 Courses (I've taken these and highly reccomend them)
 https://fullstackopen.com/en/ - The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js. 
 https://www.theodinproject.com -Web development course, one of the best in my opinion
+http://datasciencemasters.org/ -Data Science
 
 Mobile applications
 https://flutter.dev/
